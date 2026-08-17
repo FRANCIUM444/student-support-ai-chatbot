@@ -1,8 +1,8 @@
-# 🎓 Student Support AI Chatbot
+#  Student Support AI Chatbot
 
 An AI-powered web chatbot designed to help students get quick answers to common college-related questions such as attendance, examinations, library services, fees, assignments, and student support.
 
-## 📌 About the Project
+##  About the Project
 
 The **Student Support AI Chatbot** uses Natural Language Processing (NLP) and Machine Learning techniques to match a student's question with the most relevant question in its knowledge base and provide an appropriate answer.
 
@@ -22,17 +22,7 @@ Best Matching Question
 Display Answer
 ```
 
-## 🚀 Features
-
-* 🤖 AI-based student support
-* 🧠 NLP-based question matching
-* 📊 TF-IDF and Cosine Similarity
-* 💬 Interactive chatbot interface
-* 📚 Student support knowledge base
-* 🌐 Web-based application
-* ☁️ Cloud deployment
-
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Python** – Programming language
 * **Flask** – Backend web framework
@@ -46,7 +36,7 @@ Display Answer
 * **Render** – Deployment
 * **Gunicorn** – Production server
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 student-support-ai-chatbot/
@@ -66,7 +56,7 @@ student-support-ai-chatbot/
 └── README.md
 ```
 
-## 💻 Run Locally
+##  Run Locally
 
 ### 1. Clone the repository
 
@@ -122,7 +112,7 @@ http://127.0.0.1:5000
 
 The chatbot should now be running locally.
 
-## ☁️ Deployment on Render
+##  Deployment on Render
 
 The application can be deployed online using **Render**.
 
@@ -170,50 +160,10 @@ https://student-support-ai-chatbot.onrender.com
 
 Open the URL in a browser to access the chatbot online.
 
-## 🔄 Updating the Deployed Application
 
-After making changes to the project:
 
-```text
-Edit Code
-   ↓
-Commit Changes
-   ↓
-Push to GitHub
-   ↓
-Render Detects Changes
-   ↓
-Application Redeploys
-```
-
-If automatic deployment is enabled, Render will automatically deploy changes pushed to the connected GitHub branch.
-
-## 🎯 Project Objective
+##  Project Objective
 
 The main objective of this project is to provide students with a simple and accessible AI-based system for getting answers to frequently asked college-related questions.
 
-## 🔮 Future Enhancements
 
-* Voice input
-* Multiple language support
-* Chat history
-* Admin dashboard
-* Database integration
-* Mobile application
-* Advanced AI/NLP models
-
-## ⚠️ Disclaimer
-
-The chatbot provides responses based on its configured knowledge base. Important academic, financial, examination, or administrative information should be verified with the appropriate college department.
-
-## 👨‍💻 Project Information
-
-**Project:** Student Support AI Chatbot
-
-**Type:** Artificial Intelligence / Machine Learning / NLP
-
-**Backend:** Python + Flask
-
-**Deployment:** Render
-
-**Source Code:** GitHub
