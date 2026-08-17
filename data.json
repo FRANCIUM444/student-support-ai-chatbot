@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is the minimum attendance required?",
+        "answer": "Students are generally required to maintain at least 75% attendance. Please check your institution's official attendance regulations for the exact requirement."
+    },
+    {
+        "question": "How can I check my attendance?",
+        "answer": "You can check your attendance through the student portal or contact your department office."
+    },
+    {
+        "question": "When are the exams?",
+        "answer": "The examination schedule is published by the examination department. Please check the official notice board or student portal for the latest timetable."
+    },
+    {
+        "question": "Where can I find the exam timetable?",
+        "answer": "You can find the exam timetable on the student portal, examination department notice board, or official college website."
+    },
+    {
+        "question": "What are the library timings?",
+        "answer": "The library timings depend on the institution. Please check the library notice board or contact the library for current timings."
+    },
+    {
+        "question": "Where is the library?",
+        "answer": "The library is located on the main campus. Please check the campus map or ask the administration office for the exact location."
+    },
+    {
+        "question": "How can I borrow a library book?",
+        "answer": "You normally need a valid student ID or library card. Search for the book in the library catalogue and approach the library desk to borrow it."
+    },
+    {
+        "question": "How many books can I borrow?",
+        "answer": "The number of books a student can borrow depends on the library rules and student category. Please contact the library for the current limit."
+    },
+    {
+        "question": "How can I contact student support?",
+        "answer": "You can contact the student support office during college working hours. You can also use the official college email or student portal."
+    },
+    {
+        "question": "Where is the administration office?",
+        "answer": "The administration office is located on the main campus. Please ask the reception desk if you need directions."
+    },
+    {
+        "question": "How can I apply for leave?",
+        "answer": "Leave applications are usually submitted through the student portal or to the department office. Follow your institution's official leave procedure."
+    },
+    {
+        "question": "How can I apply for a scholarship?",
+        "answer": "Scholarship applications depend on the scholarship provider. Check the official scholarship notice or contact the student welfare office for available opportunities."
+    },
+    {
+        "question": "Where can I find scholarship information?",
+        "answer": "Scholarship information is usually available through the student portal, official college website, and student welfare office."
+    },
+    {
+        "question": "How can I pay my fees?",
+        "answer": "Fees can usually be paid through the student portal or designated college payment system. Please check your institution's official payment instructions."
+    },
+    {
+        "question": "Where can I see my fee details?",
+        "answer": "You can normally view your fee details through the student portal or contact the accounts department."
+    },
+    {
+        "question": "How can I get my student ID card?",
+        "answer": "Contact the administration or student affairs office to request or collect your student ID card."
+    },
+    {
+        "question": "What should I do if I lose my ID card?",
+        "answer": "Report the lost ID card to the administration or student affairs office as soon as possible and ask about the replacement procedure."
+    },
+    {
+        "question": "How can I register for courses?",
+        "answer": "Course registration is normally completed through the student portal during the registration period. Contact your department if you need assistance."
+    },
+    {
+        "question": "Where can I find course information?",
+        "answer": "Course information can usually be found on the student portal, department website, or academic handbook."
+    },
+    {
+        "question": "How can I contact my department?",
+        "answer": "You can contact your department office during working hours or use the official department email address."
+    },
+    {
+        "question": "Where can I find my classroom?",
+        "answer": "Check your timetable or student portal for the classroom number. You can also ask the department office or reception desk."
+    },
+    {
+        "question": "What are the college working hours?",
+        "answer": "Working hours vary by institution and department. Please check the official college notice or contact the administration office."
+    },
+    {
+        "question": "How can I reset my student portal password?",
+        "answer": "Use the password reset option on the student portal. If you cannot reset it, contact the IT support department."
+    },
+    {
+        "question": "What should I do if my student portal is not working?",
+        "answer": "First check your internet connection and try again. If the problem continues, contact the college IT support team."
+    },
+    {
+        "question": "How can I get technical support?",
+        "answer": "For technical problems, contact the IT support department or submit a support request through the official student portal."
+    },
+    {
+        "question": "How can I submit an assignment?",
+        "answer": "Assignments are normally submitted through the learning management system or according to the instructions given by your lecturer."
+    },
+    {
+        "question": "Where can I find assignment information?",
+        "answer": "Check your learning management system, course page, or contact your lecturer for assignment details."
+    },
+    {
+        "question": "How can I get my academic results?",
+        "answer": "Academic results are generally available through the student portal after they are officially released."
+    },
+    {
+        "question": "Who should I contact for academic problems?",
+        "answer": "For academic problems, contact your course instructor, academic advisor, or department office."
+    },
+    {
+        "question": "How can I get help from the student support chatbot?",
+        "answer": "Simply type your question into the chat box. The AI chatbot will search its student-support knowledge base and provide the most relevant answer."
+    }
+]
